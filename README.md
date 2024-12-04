@@ -24,6 +24,4 @@ Guia de uso de Aplicacion
 - Dependencias Instaladas
   ![Captura de pantalla 2024-12-03 123502](https://github.com/user-attachments/assets/4ec12ff9-26c2-4d4f-8dfe-cd2b0abd5567)
 
-- Mqtt Handler
-  ![Captura de pantalla 2024-12-03 124546](https://github.com/user-attachments/assets/b099340e-36c8-4c8d-afe7-b632cb1f78f4)
-  ![Captura de pantalla 2024-12-03 124557](https://github.com/user-attachments/assets/024057b7-2b66-42df-85dc-8c9e3acfea27)
+
